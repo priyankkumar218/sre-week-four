@@ -1,6 +1,6 @@
 replicaCount: 1
 imagePullPolicy: Always
-cpuLimit: "0.2"
+cpuLimit: "0.5"
 memoryLimit: "900Mi"
 upcommerce:
   image: uonyeka/upcommerce:v3
